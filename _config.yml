@@ -21,7 +21,7 @@
 title: "We're Red Ducks"
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-    Either we make mods or we make games, but it isn't just that, we are united into one community to share ideas and fun!
+    "Either we make mods or we make games, but it isn't just that, we are united into one community to share ideas and fun!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
